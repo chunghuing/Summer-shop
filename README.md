@@ -36,7 +36,7 @@ npm run dev
 
 ## Demo
 
-🔗 Live Demo：即將部署到 Vercel（敬請期待）
+🔗 Live Demo：[https://summer-neon.vercel.app](https://summer-neon.vercel.app)
 
 ## 更多文件
 
